@@ -166,7 +166,7 @@ with model:
 
 # run simulation
 sim = nengo.Simulator(model)
-sim.run(2)
+sim.run(6)
 
 
 # In[3]:
