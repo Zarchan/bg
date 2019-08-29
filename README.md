@@ -18,5 +18,5 @@ The first stab at modifying their work for exploration. Originally was operated 
 Snippets of code primarily, not actually included or used anywhere as of now. Just a place to put neat tricks I saw.
 
 # Dependencies
-We used an Anaconda installation with Python 3.7, Windows 10 Enterprise Build #14393, processor as "Intel64 Family 6 Model 58 Stepping 9 GenuineIntel ~3401 Mhz" which is an 8 core processor.
+We used an Anaconda installation with Python 3.7, Windows 10 Enterprise Build #14393, processor as i7-3770 @ 3.4Ghz
 Important packages are Nengo and joblib. The model was specified as being ran with Nengo 2.0 but our simulations were using the newer release of 2.8.
